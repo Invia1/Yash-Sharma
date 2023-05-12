@@ -1,0 +1,8 @@
+C:\Users\Invia-ILC\source\repos\Day7Prac\Day7Prac\obj\Debug\Day7Prac.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\Day7Prac\Day7Prac\obj\Debug\Day7Prac.csproj.SuggestedBindingRedirects.cache
+C:\Users\Invia-ILC\source\repos\Day7Prac\Day7Prac\obj\Debug\Day7Prac.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\Day7Prac\Day7Prac\bin\Debug\Day7Prac.exe.config
+C:\Users\Invia-ILC\source\repos\Day7Prac\Day7Prac\bin\Debug\Day7Prac.exe
+C:\Users\Invia-ILC\source\repos\Day7Prac\Day7Prac\bin\Debug\Day7Prac.pdb
+C:\Users\Invia-ILC\source\repos\Day7Prac\Day7Prac\obj\Debug\Day7Prac.exe
+C:\Users\Invia-ILC\source\repos\Day7Prac\Day7Prac\obj\Debug\Day7Prac.pdb

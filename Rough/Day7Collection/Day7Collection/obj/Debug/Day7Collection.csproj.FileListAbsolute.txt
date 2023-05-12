@@ -1,0 +1,8 @@
+C:\Users\Invia-ILC\source\repos\Day7Collection\Day7Collection\bin\Debug\Day7Collection.exe.config
+C:\Users\Invia-ILC\source\repos\Day7Collection\Day7Collection\bin\Debug\Day7Collection.exe
+C:\Users\Invia-ILC\source\repos\Day7Collection\Day7Collection\bin\Debug\Day7Collection.pdb
+C:\Users\Invia-ILC\source\repos\Day7Collection\Day7Collection\obj\Debug\Day7Collection.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\Day7Collection\Day7Collection\obj\Debug\Day7Collection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Invia-ILC\source\repos\Day7Collection\Day7Collection\obj\Debug\Day7Collection.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\Day7Collection\Day7Collection\obj\Debug\Day7Collection.exe
+C:\Users\Invia-ILC\source\repos\Day7Collection\Day7Collection\obj\Debug\Day7Collection.pdb

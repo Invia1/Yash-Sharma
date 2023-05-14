@@ -1,0 +1,50 @@
+using System;
+using System.Collections;
+
+
+namespace Day7Prac
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            ArrayList MyValue=new ArrayList();
+            MyValue.Add(10);
+            MyValue.Add("this is string");
+            MyValue.Add(20.22);
+
+            MyValue.AddRange(new ArrayList() { "John",24,78.8 });
+
+            MyValue.Insert(1,"This is the first index");
+            MyValue.Insert(2, "This is the second index");
+
+            MyValue.Remove("This is the first index");
+            MyValue.RemoveRange(0, 2);
+            MyValue.RemoveAt(3);
+
+            Console.WriteLine(MyValue.Contains(20.22));
+
+            ArrayList NewArr= new ArrayList();
+            NewArr.Add(10);
+            NewArr.Add(3);
+            NewArr.Add(7);
+            NewArr.Sort();
+
+            //NewArr.Clear();       //it will remove all the elements in newArr
+
+            Console.WriteLine(NewArr.Count);
+            
+            
+            foreach(var value in MyValue)
+            {
+                Console.WriteLine(value);
+            }
+            Console.WriteLine("--------------");
+            foreach (var value in NewArr)
+            {
+                Console.WriteLine(value);
+            }
+            Console.ReadLine();
+        }
+    }
+}

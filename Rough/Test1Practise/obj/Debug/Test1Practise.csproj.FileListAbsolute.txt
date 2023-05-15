@@ -1,0 +1,8 @@
+C:\Users\Invia-ILC\source\repos\Test1Practise\Test1Practise\obj\Debug\Test1Practise.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\Test1Practise\Test1Practise\obj\Debug\Test1Practise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Invia-ILC\source\repos\Test1Practise\Test1Practise\obj\Debug\Test1Practise.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\Test1Practise\Test1Practise\bin\Debug\Test1Practise.exe.config
+C:\Users\Invia-ILC\source\repos\Test1Practise\Test1Practise\bin\Debug\Test1Practise.exe
+C:\Users\Invia-ILC\source\repos\Test1Practise\Test1Practise\bin\Debug\Test1Practise.pdb
+C:\Users\Invia-ILC\source\repos\Test1Practise\Test1Practise\obj\Debug\Test1Practise.exe
+C:\Users\Invia-ILC\source\repos\Test1Practise\Test1Practise\obj\Debug\Test1Practise.pdb

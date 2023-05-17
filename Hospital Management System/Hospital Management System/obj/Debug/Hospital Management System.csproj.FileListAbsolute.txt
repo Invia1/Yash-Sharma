@@ -1,0 +1,8 @@
+C:\Users\Invia-ILC\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Invia-ILC\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\Invia-ILC\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\Invia-ILC\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\Invia-ILC\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\Invia-ILC\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb

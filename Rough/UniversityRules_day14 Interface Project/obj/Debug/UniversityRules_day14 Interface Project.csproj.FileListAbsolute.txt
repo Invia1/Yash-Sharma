@@ -1,0 +1,8 @@
+D:\Visual Studio C# Programs day wise\QuickSolutions\UniversityRules_day14 Interface Project\obj\Debug\UniversityRules_day14 Interface Project.csproj.AssemblyReference.cache
+D:\Visual Studio C# Programs day wise\QuickSolutions\UniversityRules_day14 Interface Project\obj\Debug\UniversityRules_day14 Interface Project.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio C# Programs day wise\QuickSolutions\UniversityRules_day14 Interface Project\obj\Debug\UniversityRules_day14 Interface Project.csproj.CoreCompileInputs.cache
+D:\Visual Studio C# Programs day wise\QuickSolutions\UniversityRules_day14 Interface Project\bin\Debug\UniversityRules_day14 Interface Project.exe.config
+D:\Visual Studio C# Programs day wise\QuickSolutions\UniversityRules_day14 Interface Project\bin\Debug\UniversityRules_day14 Interface Project.exe
+D:\Visual Studio C# Programs day wise\QuickSolutions\UniversityRules_day14 Interface Project\bin\Debug\UniversityRules_day14 Interface Project.pdb
+D:\Visual Studio C# Programs day wise\QuickSolutions\UniversityRules_day14 Interface Project\obj\Debug\UniversityRules_day14 Interface Project.exe
+D:\Visual Studio C# Programs day wise\QuickSolutions\UniversityRules_day14 Interface Project\obj\Debug\UniversityRules_day14 Interface Project.pdb

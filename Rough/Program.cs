@@ -1,43 +1,48 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
-
-namespace Day6
+// Part 2 Video of BANGAR RAJU
+namespace ThreadingPresentation
 {
-    internal class Journey
+    internal class Program
     {
-        object[] Suitcase = new object[4];     //object means any data type
-        
-        public object this[int i] {
-            get {
-                return Suitcase[i];
-            }
-            set
+        static void Test1()
+        {
+            for(int i=1; i<=10;i++)
             {
-                Suitcase[i] = value;
+                Console.Write("Test1:");
+                Console.WriteLine(i);   
             }
         }
-    }
-    class SuitcaseDetails
-    {
-        public static void Main(string[] args)
+        static void Test2()
         {
-            Journey obj = new Journey();
-            obj[0] = "soap";
-            obj[1] = "towel";
-            obj[2] = "comb";
-            obj[3] = 21;
-            Console.WriteLine(obj[0]+" " + obj[1]+" " + obj[2]+" "+obj[3]);
-
-            Journey obj2 = new Journey();
-            obj[0] = true;
-            obj[1] = 20.22;
-            obj[2] = 90;
-            obj[3] = "phone";
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.WriteLine("Test2:"+i);
+                if (i == 5)
+                {
+                    Console.WriteLine("Test 2 is Going to sleep");
+                    Thread.Sleep(5000);
+                    Console.WriteLine("Test 2 is woke up now");
+                }
+            }
+        }
+        static void Test3()
+        {
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.WriteLine("Test3:"+i);
+            }
+        }
+        static void Main(string[] args)
+        {
+            Thread t1=new Thread(Test1);
+            Thread t2=new Thread(Test2);
+            Thread t3 = new Thread(Test3);
+            t1.Start();
+            t2.Start();
+            t3.Start();
             Console.ReadLine();
         }
     }
 }
-
